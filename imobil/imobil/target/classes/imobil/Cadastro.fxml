@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="350.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <PasswordField layoutX="72.0" layoutY="333.0" onAction="#password" prefHeight="25.0" prefWidth="206.0" />
+      <PasswordField layoutX="72.0" layoutY="375.0" prefHeight="25.0" prefWidth="206.0" />
+      <CheckBox layoutX="73.0" layoutY="410.0" mnemonicParsing="false" text="Eu aceito os termos de " />
+      <Button layoutX="126.0" layoutY="449.0" onAction="Submit" mnemonicParsing="false" text="CADASTRAR-SE" />
+      <Label layoutX="79.0" layoutY="316.0" text="Senha" />
+      <Label layoutX="79.0" layoutY="358.0" text="Confimar senha" />
+      <TextField layoutX="72.0" layoutY="291.0" onAction="#TxtCpf" prefHeight="25.0" prefWidth="206.0" />
+      <TextField layoutX="72.0" layoutY="251.0" onAction="#TxtConfirmeEmail" prefHeight="25.0" prefWidth="206.0" />
+      <TextField layoutX="72.0" layoutY="210.0" onAction="#TxtEmail" prefHeight="25.0" prefWidth="206.0" />
+      <Label layoutX="77.0" layoutY="274.0" text="CPF" />
+      <Label layoutX="76.0" layoutY="234.0" text="Confirmar E-mail" />
+      <Label layoutX="75.0" layoutY="193.0" text="E-mail" />
+      <TextField layoutX="72.0" layoutY="168.0" onAction="#TxtSobrenome" prefHeight="25.0" prefWidth="206.0" />
+      <TextField layoutX="73.0" layoutY="129.0" onAction="#TxtNome" prefHeight="25.0" prefWidth="206.0" />
+      <Label layoutX="76.0" layoutY="112.0" text="Nome" />
+      <Label layoutX="75.0" layoutY="152.0" text="Sobrenome" />
+      <Hyperlink layoutX="214.0" layoutY="407.0" text="privacidade" />
+   </children>
+</Pane>

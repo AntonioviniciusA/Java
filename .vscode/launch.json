@@ -1,0 +1,70 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "BibliotecaSistema",
+      "request": "launch",
+      "mainClass": "BibliotecaSistema",
+      "projectName": "Java_389eccfb"
+    },
+    {
+      "type": "java",
+      "name": "Dia4",
+      "request": "launch",
+      "mainClass": "dias.Dia4",
+      "projectName": "Java_389eccfb"
+    },
+    {
+      "type": "java",
+      "name": "example",
+      "request": "launch",
+      "mainClass": "example",
+      "projectName": "Java_389eccfb"
+    },
+    {
+      "type": "java",
+      "name": "EXAMPLE2",
+      "request": "launch",
+      "mainClass": "EXAMPLE2",
+      "projectName": "Java_389eccfb"
+    },
+    {
+      "type": "java",
+      "name": "dia2",
+      "request": "launch",
+      "mainClass": "dias.dia2",
+      "projectName": "Java_389eccfb"
+    },
+    {
+      "type": "java",
+      "name": "dia1",
+      "request": "launch",
+      "mainClass": "dias.dia1",
+      "projectName": "Java_389eccfb"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Calculadora",
+      "request": "launch",
+      "mainClass": "Calculadora",
+      "projectName": "Java_389eccfb"
+    },
+    {
+      "type": "java",
+      "name": "Janela",
+      "request": "launch",
+      "mainClass": "Janela",
+      "projectName": "Java_389eccfb"
+    }
+  ]
+}
